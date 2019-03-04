@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Flame</title>
+  <title>彼得潘的日记本</title>
   
-  <subtitle>kod</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://peterpanzsy.github.io/"/>
   <updated>2018-06-10T12:06:43.440Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://peterpanzsy.github.io/</id>
   
   <author>
     <name>peterpanzsy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/06/10/hello-world/"/>
-    <id>http://yoursite.com/2018/06/10/hello-world/</id>
+    <link href="https://peterpanzsy.github.io/2018/06/10/hello-world/"/>
+    <id>https://peterpanzsy.github.io/2018/06/10/hello-world/</id>
     <published>2018-06-10T12:06:43.440Z</published>
     <updated>2018-06-10T12:06:43.440Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/06/10/test/"/>
-    <id>http://yoursite.com/2018/06/10/test/</id>
+    <link href="https://peterpanzsy.github.io/2018/06/10/test/"/>
+    <id>https://peterpanzsy.github.io/2018/06/10/test/</id>
     <published>2018-06-10T11:15:33.000Z</published>
     <updated>2018-06-10T12:06:43.441Z</updated>
     
@@ -53,8 +53,8 @@
   
   <entry>
     <title>myfirstblog</title>
-    <link href="http://yoursite.com/2018/06/09/myfirstblog/"/>
-    <id>http://yoursite.com/2018/06/09/myfirstblog/</id>
+    <link href="https://peterpanzsy.github.io/2018/06/09/myfirstblog/"/>
+    <id>https://peterpanzsy.github.io/2018/06/09/myfirstblog/</id>
     <published>2018-06-09T11:35:42.000Z</published>
     <updated>2018-06-10T12:17:26.321Z</updated>
     
